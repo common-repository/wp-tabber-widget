@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp tabber widget\n"
+"POT-Creation-Date: 2016-03-26 22:30+0800\n"
+"PO-Revision-Date: 2016-03-26 22:30+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-tabber-widget.php:197 ../wp-tabber-widget.php:198
+#: ../wp-tabber-widget.php:243 ../wp-tabber-widget.php:247
+#: ../pages/content-add.php:84 ../pages/content-edit.php:108
+#: ../pages/content-show.php:55
+msgid "Wp tabber widget"
+msgstr "Wp tabber widget"
+
+#: ../wp-tabber-widget.php:225
+msgid "Group 1:"
+msgstr "Grupa 1:"
+
+#: ../wp-tabber-widget.php:227
+msgid "Group 2:"
+msgstr "Grupa 2:"
+
+#: ../pages/content-add.php:27 ../pages/content-edit.php:56
+msgid "Please enter tabber text."
+msgstr "Proszę wpisać tekst tabber."
+
+#: ../pages/content-add.php:34 ../pages/content-edit.php:63
+msgid "Please select existing group (or) enter new tabber group."
+msgstr "Wybierz istniejącą grupę (lub) wprowadź nową grupę tabber."
+
+#: ../pages/content-add.php:50
+msgid "New details was successfully added."
+msgstr "Nowe szczegóły została pomyślnie dodana."
+
+#: ../pages/content-add.php:76 ../pages/content-edit.php:100
+msgid "Click here to view the details"
+msgstr "Kliknij tutaj, aby zobaczyć szczegóły"
+
+#: ../pages/content-add.php:86
+msgid "Add details"
+msgstr "Udostępniaj"
+
+#: ../pages/content-add.php:88 ../pages/content-edit.php:112
+#: ../pages/content-show.php:70 ../pages/content-show.php:78
+msgid "Tabber group"
+msgstr "Grupa Tabber"
+
+#: ../pages/content-add.php:90 ../pages/content-edit.php:114
+msgid "Please select (or) enter new"
+msgstr "Proszę wybrać (lub) wprowadzić nowe"
+
+#: ../pages/content-add.php:105 ../pages/content-edit.php:129
+msgid "Select existing group (or) enter new tabber group"
+msgstr "Wybierz istniejącą grupę (lub) wprowadź nową grupę tabber"
+
+#: ../pages/content-add.php:107 ../pages/content-edit.php:131
+msgid "Tabber text"
+msgstr "Tekst Tabber"
+
+#: ../pages/content-add.php:109 ../pages/content-edit.php:133
+msgid "Please enter your tabber content."
+msgstr "Wpisz treść tabber."
+
+#: ../pages/content-add.php:111 ../pages/content-edit.php:135
+msgid "Link"
+msgstr "Link"
+
+#: ../pages/content-add.php:113 ../pages/content-edit.php:137
+msgid "When someone clicks on the message, where do you want to send them."
+msgstr "Gdy ktoś kliknie na obrazek, w którym chcesz wysłać."
+
+#: ../pages/content-add.php:115 ../pages/content-edit.php:139
+msgid "Target"
+msgstr "Cel"
+
+#: ../pages/content-add.php:122 ../pages/content-edit.php:146
+msgid "Do you want to open link in new window?"
+msgstr "Czy chcesz, aby otworzyć łącze w nowym oknie?"
+
+#: ../pages/content-add.php:127
+msgid "Insert Details"
+msgstr "Wstaw Szczegóły"
+
+#: ../pages/content-add.php:128 ../pages/content-edit.php:153
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: ../pages/content-add.php:129 ../pages/content-edit.php:154
+#: ../pages/content-show.php:122
+msgid "Help"
+msgstr "Pomoc"
+
+#: ../pages/content-add.php:136 ../pages/content-edit.php:161
+#: ../pages/content-show.php:131
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../pages/content-add.php:137 ../pages/content-edit.php:162
+#: ../pages/content-show.php:132
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../pages/content-edit.php:19 ../pages/content-show.php:25
+msgid "Oops, selected details doesnt exist."
+msgstr "Ups, wybrane szczegóły nie istnieją."
+
+#: ../pages/content-edit.php:110
+msgid "Update details"
+msgstr "aktualizacja danych szczegółowych"
+
+#: ../pages/content-edit.php:152
+msgid "Update Details"
+msgstr "aktualizacja danych szczegółowych"
+
+#: ../pages/content-show.php:43
+msgid "Selected record was successfully deleted."
+msgstr "Wybrany rekord został pomyślnie usunięty."
+
+#: ../pages/content-show.php:56 ../pages/content-show.php:120
+msgid "Add New"
+msgstr "Dodaj nowy"
+
+#: ../pages/content-show.php:69 ../pages/content-show.php:77
+msgid "Text"
+msgstr "Tekst"
+
+#: ../pages/content-show.php:71 ../pages/content-show.php:79
+msgid "Link target"
+msgstr "Cel linku"
+
+#: ../pages/content-show.php:94
+msgid "Edit"
+msgstr "Edytuj"
+
+#: ../pages/content-show.php:95
+msgid "Delete"
+msgstr "Usuń"
+
+#: ../pages/content-show.php:109
+msgid "No records available."
+msgstr "Rejestry nie są dostępne."
+
+#: ../pages/content-show.php:126
+msgid "Plugin configuration option"
+msgstr "Opcja konfiguracji plugin"
+
+#: ../pages/content-show.php:128
+msgid "Drag and drop the widget to your sidebar."
+msgstr "Przeciągnij i upuść widżet (Wyświetlenie całej strony)"
